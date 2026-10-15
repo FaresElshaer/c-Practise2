@@ -1,0 +1,14 @@
+D:\C#\CsharpAdvanced\bin\Debug\net8.0\CsharpAdvanced.exe
+D:\C#\CsharpAdvanced\bin\Debug\net8.0\CsharpAdvanced.deps.json
+D:\C#\CsharpAdvanced\bin\Debug\net8.0\CsharpAdvanced.runtimeconfig.json
+D:\C#\CsharpAdvanced\bin\Debug\net8.0\CsharpAdvanced.dll
+D:\C#\CsharpAdvanced\bin\Debug\net8.0\CsharpAdvanced.pdb
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.AssemblyInfoInputs.cache
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.AssemblyInfo.cs
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.csproj.CoreCompileInputs.cache
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.dll
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\refint\CsharpAdvanced.dll
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.pdb
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\CsharpAdvanced.genruntimeconfig.cache
+D:\C#\CsharpAdvanced\obj\Debug\net8.0\ref\CsharpAdvanced.dll
